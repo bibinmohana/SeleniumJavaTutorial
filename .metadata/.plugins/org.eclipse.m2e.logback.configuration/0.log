@@ -1,0 +1,21 @@
+2020-04-27 13:51:49,458 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-27 13:52:47,924 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenDemoTest:MavenDemoTest:0.0.1-SNAPSHOT @ E:\Bibin\Projects\MavenDemoTest\pom.xml.
+2020-04-27 13:52:51,403 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenDemoTest/src/main/java
+2020-04-27 13:52:51,406 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenDemoTest/src/test/java
+2020-04-27 13:52:51,764 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2020-04-27 13:52:56,155 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 13:52:56,156 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bibin\Projects\MavenDemoTest\src\main\resources
+2020-04-27 13:52:56,164 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 13:52:56,164 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bibin\Projects\MavenDemoTest\src\test\resources
+2020-04-27 13:53:22,279 [Worker-2: Launching Executing test in E__Bibin_Projects_MavenDemoTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bibin\Projects\MavenDemoTest
+2020-04-27 13:53:22,281 [Worker-2: Launching Executing test in E__Bibin_Projects_MavenDemoTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-04-27 13:53:37,293 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 13:53:37,294 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bibin\Projects\MavenDemoTest\src\main\resources
+2020-04-27 13:53:37,301 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 13:53:37,303 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bibin\Projects\MavenDemoTest\src\test\resources
+2020-04-27 13:53:54,790 [Worker-7: Launching Executing install in E__Bibin_Projects_MavenDemoTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bibin\Projects\MavenDemoTest
+2020-04-27 13:53:54,791 [Worker-7: Launching Executing install in E__Bibin_Projects_MavenDemoTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-27 13:54:16,309 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 13:54:16,310 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bibin\Projects\MavenDemoTest\src\main\resources
+2020-04-27 13:54:16,314 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 13:54:16,314 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bibin\Projects\MavenDemoTest\src\test\resources
